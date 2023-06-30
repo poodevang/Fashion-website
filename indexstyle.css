@@ -1,0 +1,147 @@
+.header-element {
+    background-color: rgb(236, 239, 243);
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.header-elements {
+    display: inline-block;
+    padding-left: 10%;
+}
+.header-elements:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+.box-2 {
+    background-color: rgb(3, 25, 52);
+    color: white;
+    padding: 1%;
+    text-align: center;
+
+}
+.search-box {
+    font-size: 30px;
+    background-color: rgb(3, 25, 52);
+    border: none;
+    border-style: hidden;
+    padding-left: 2%; 
+    text-align: center;  
+    color: white;
+}
+
+.box-3 {
+    background-color: rgb(236, 239, 243);
+}
+.fashion-products {
+    width: max-content;
+    padding: 1%; 
+    display: inline-block;
+    margin: center;
+    align-content: left;
+    vertical-align: middle;
+    background-color: rgb(236, 239, 243);
+}
+.store-name {
+   vertical-align: middle;
+   display: inline-block;
+   padding: 1%;
+   margin: 1%;
+   font-size: 60px;
+   font-weight: bolder;
+   vertical-align: middle;
+   background-color: rgb(236, 239, 243);
+}
+.store-description {
+    display: inline-block;
+    font-size: 35px;
+    margin: 1%;
+    padding: 5%;
+    font-style: oblique;
+    width: 350px;
+    vertical-align:-webkit-baseline-middle;
+    background-color: rgb(236, 239, 243);
+}
+.products {
+    border-color: aquamarine;
+    border-style: groove;
+    border-width: 2px;
+    width: 600px;
+    height: 500px;
+    margin-top: 2%;
+    margin-bottom: 0%;
+    margin-left: 2%;
+    margin-right: 2%;
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 1%;
+}
+.items:hover {
+    cursor: pointer;
+}
+.item-price{
+    font-weight: bold;
+    font-size: 50px;
+    padding-left: 5%;
+    padding-right: 1%;
+    margin-top: 2%;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    display: inline-block;
+    vertical-align: top;
+}
+.item-description {
+    font-size: 40px;
+    padding-left: 4%;
+    padding-right: 100px;
+    margin-top: 1%;
+    margin-bottom: 20px;
+    margin-left: 0%;
+    vertical-align: top;
+    width: 500px;
+    font-style: oblique;
+}
+.shop-button {
+    font-size: 40px;
+    padding: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 2%;
+    vertical-align: top;
+    width: 500px;
+    background-color: rgb(156, 247, 92);
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 15px;
+    
+}
+.shop-button:hover {
+    box-shadow: 10px 10px 10px black;
+}
+.shop-button:hover:active {
+    opacity: 0.30;
+}
+.logos {
+    margin-left: 2%;
+    object-fit: contain;
+    width: 200px;
+    vertical-align: top;
+    margin-right: 15%;
+    margin-bottom: 3%;
+}
+.link {
+    margin-left: 13px;
+}
+.footer {
+    background-color: rgb(236, 239, 243);
+    font-size: 30px;
+    border: none;
+    border-style: hidden;
+    padding-left: 2%; 
+    text-align: center;  
+    color: rgb(12, 12, 12);
+}
+.footer:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
